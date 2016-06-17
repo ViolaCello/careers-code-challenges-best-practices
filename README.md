@@ -27,6 +27,12 @@ That means:
 - knowing the deadline
 - clarifying any questions you have regarding the technology, functionality, features, etc.
 - being aware of any communication delays (e.g. if you send an email on a weekend, you may not get an answer back until the next workday)
+- 
+Remember to keep it simple!
+Try not to waste time making things too “fancy” - or risk not meeting the deadline because you want to add to the solution. It can be easy to spend more time on the challenge than is necessary to pass the round, and you may be doing more harm than good.
+
+Our advice? Complete the challenge as if it were a real client assignment, not a competition. The team might be asking themselves: "Would I be happy to build upon this code myself?” or “Would it be relatively straight-forward to pair with someone on this code?"
+
 
 ## Deadlines
 
@@ -93,7 +99,9 @@ Second rule of code challenge: Always submit on time!
 Other rules: 
 - Make sure you’ve tested it twice, thrice, dozens of times before you submit.
 - Show it to a friend (or a few friends). See what they think.
-- Make sure your submission satisfies all the minimum requirements.
+- Make sure your submission satisfies all the minimum requirements
+
+In some cases, you may find that your final product is a little off, or not what you were hoping to submit. Some companies are looking at more than just the code itself, and it can be beneficial to provide well written instructions (e.g. readme) or comments walking readers through what you have created. In the event that your product could not be completed, or lacked a specific feature, include that content. Let employers know what you would have done differently, added/removed, or problem solved to strengthen your final code.
 
 ## Record It! 
 
@@ -103,7 +111,16 @@ Videos are great for showcasing everything you built and adding context behind y
 
 - If you built a CRUD app, spend a minute showing the upload and download functions as you narrate the steps. 
 - If you built an API, show the different responses you get when you hit different endpoints or send different payloads.
-- If your app sends emails upon subscribing to a mailing list, record a test run of you signing up and receiving the email in your (test) inbox.
+- If your app sends emails upon subscribing to a mailing list, record a test run of you signing up and receiving the email in your (test) inbox
+
+## How to Handle Feedback
+
+Sometimes, an employer may provide feedback about your submitted code challenge. This feedback can be negative or positive. How you respond is important because it may impact your advancement into future rounds of the interview process.
+
+  Do: Reply back with comments about what you appreciated or learned from the feedback. Show that you can not only take constructive criticism, but also apply it to future projects. It would be a good idea to re-submit the challenge with the applied feedback, to show enthusiasm and passion (although this is not required or expected).
+  
+  Don’t: Become defensive. That can be a big red flag to recruiters/employers. It is important to remember that feedback is not personal, and that being able to receive constructive feedback is an essential part of the development process. Don't defend your choice to the employer if they made it clear they thought you went about solving the problem in the wrong way.
+
 
 ## Assignment
 
