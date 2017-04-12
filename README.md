@@ -122,7 +122,7 @@ Sometimes, an employer may provide feedback about your submitted code challenge.
   Don’t: Become defensive. That can be a big red flag to recruiters/employers. It is important to remember that feedback is not personal, and that being able to receive constructive feedback is an essential part of the development process. Don't defend your choice to the employer if they made it clear they thought you went about solving the problem in the wrong way.
 
 
-## Assignment
+## Resources
 
-- Read this article on [writing Git commits](http://chris.beams.io/posts/git-commit/)
-- Read the book: [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandy Metz
+- [writing Git commits](http://chris.beams.io/posts/git-commit/)
+- [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandy Metz
