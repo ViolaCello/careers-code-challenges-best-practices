@@ -124,5 +124,5 @@ Sometimes, an employer may provide feedback about your submitted code challenge.
 
 ## Resources
 
-- [writing Git commits](http://chris.beams.io/posts/git-commit/)
+- [Writing Git commits](http://chris.beams.io/posts/git-commit/)
 - [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandy Metz
