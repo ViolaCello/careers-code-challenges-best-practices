@@ -12,7 +12,7 @@ As we’ve talked about in other pieces of content, a code challenge may be the 
 
 As soon as you receive a code challenge, you should immediately spend one hour on it. 
 
-This is to make sure you understand the directions, that the APIs they provide you still work, and to make sure any other incidental things won’t pop up 24 hours before the challenge is due.
+This is to make sure you understand the directions, that the APIs they provided still work, and to make sure any other incidental things won’t pop up 24 hours before the challenge is due.
 
 Clarify any issues early on and reach out to your point of contact if you have any questions. Do not be afraid to do this.
 
@@ -126,3 +126,5 @@ Sometimes, an employer may provide feedback about your submitted code challenge.
 
 - [Writing Git Commits](http://chris.beams.io/posts/git-commit/)
 - [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandy Metz
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-code-challenges'>Code Challenges</a> on Learn.co and start learning to code for free.</p>
