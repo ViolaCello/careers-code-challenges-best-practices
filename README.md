@@ -113,10 +113,3 @@ Sometimes, an employer may provide feedback about your submitted code challenge.
 **Do:** Reply back with comments about what you appreciated or learned from the feedback. Show that you can not only take constructive criticism, but also apply it to future projects. It would be a good idea to re-submit the challenge with the applied feedback, to show enthusiasm and passion (although this is not required or expected).
   
 **Don’t:** Become defensive. That can be a big red flag to recruiters/employers. It is important to remember that feedback is not personal, and that being able to receive constructive feedback is an essential part of the development process. Don't defend your choice to the employer if they made it clear they thought you went about solving the problem in the wrong way.
-
-
-## Resources
-
-- [Writing Git Commits](http://chris.beams.io/posts/git-commit/)
-- [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandy Metz
-
