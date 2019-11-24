@@ -59,7 +59,7 @@ Code quality and readability are particularly important. If a fellow professiona
 
 Follow the [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle). Keep your modules, classes, and methods as small as possible.
 
-If you’re a sofwtare engineering student and building a front end, something as simple as slapping on the company logo or matching the company colors goes a long way.
+If you’re a software engineering student and building a front end, something as simple as slapping on the company logo or matching the company colors goes a long way.
 
 Make sure you test repeatedly before you submit.
 
